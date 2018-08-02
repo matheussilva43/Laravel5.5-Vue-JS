@@ -1,3 +1,19 @@
+
+
+Laravel 5.5 com Vue JS
+
+Clone do projeto..
+
+* Criar um banco
+* configurar o .env
+* php artisan migrate
+
+* npm i
+* npm run watch
+* php artisan serve
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
